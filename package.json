@@ -1,0 +1,18 @@
+{
+  "name": "odin-weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app is designed to provide you with the most accurate and up-to-date weather information. With this app, you can easily check the current temperature, humidity, wind speed, and other important weather data for any location around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "homepage": "http://alimalim77.github.io/",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
