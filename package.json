@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "homepage": "http://alimalim77.github.io/",
   "author": "",
   "license": "ISC",
   "devDependencies": {
